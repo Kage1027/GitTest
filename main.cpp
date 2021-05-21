@@ -31,7 +31,7 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 
 		//Drawèàóù-------------------------------------------------------------------
 		ClsDrawScreen();
-
+		DrawFormatString(0, 0, 0xffffff, "ÉeÉXÉg");
 
 
 		//_dbgDraw();
