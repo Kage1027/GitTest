@@ -31,7 +31,7 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 
 		//Draw処理-------------------------------------------------------------------
 		ClsDrawScreen();
-		DrawFormatString(0, 0, 0xffffff, "テスト");
+		DrawFormatString(0, 0, 0xffffff, "Gitテスト");
 
 
 		//_dbgDraw();
